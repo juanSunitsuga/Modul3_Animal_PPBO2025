@@ -1,6 +1,6 @@
 package model;
 
-abstract class Animal implements Behavior {
+abstract class Animal {
     private String name;
     private Integer age;
     private String food;
